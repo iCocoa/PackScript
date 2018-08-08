@@ -1,0 +1,16 @@
+{
+	"id":"com.domain.myapp",
+	"appName":"myApp",
+	"debug":true,
+	"launchPath": "index.html",
+	"version": {
+		"name": "2.0.0",
+		"code": "200"
+	},
+	"https": {
+		"clientCert": "client.pfx",
+		"serverCert": "server.cer"
+	},
+	"android":{},
+	"ios":{}
+}
